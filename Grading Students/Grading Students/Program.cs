@@ -15,6 +15,21 @@ class Solution
             }
         }
         return grades;
+
+        //ANOTHER SOLVING
+
+        //for (int i = 0; i < grades.Count(); i++)
+        //{
+        //    if (grades[i] >= 38)
+        //    {
+        //        if ((5 - (grades[i] % 5)) < 3)
+        //        {
+        //            grades[i] = grades[i] + (5 - (grades[i] % 5));
+        //        }
+        //    }
+        //}
+
+        //return grades;
     }
 
     static void Main(string[] args)
