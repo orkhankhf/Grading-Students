@@ -16,6 +16,7 @@ Sample Input:
 
 Sample Output:
 
+4
 75
 67
 40
