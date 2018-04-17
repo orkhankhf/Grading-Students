@@ -1,0 +1,7 @@
+C:\Users\Orkhan Farajov\Desktop\Grading Students\Grading Students\bin\Debug\Grading Students.exe.config
+C:\Users\Orkhan Farajov\Desktop\Grading Students\Grading Students\bin\Debug\Grading Students.exe
+C:\Users\Orkhan Farajov\Desktop\Grading Students\Grading Students\bin\Debug\Grading Students.pdb
+C:\Users\Orkhan Farajov\Desktop\Grading Students\Grading Students\obj\Debug\Grading Students.csprojResolveAssemblyReference.cache
+C:\Users\Orkhan Farajov\Desktop\Grading Students\Grading Students\obj\Debug\Grading Students.csproj.CoreCompileInputs.cache
+C:\Users\Orkhan Farajov\Desktop\Grading Students\Grading Students\obj\Debug\Grading Students.exe
+C:\Users\Orkhan Farajov\Desktop\Grading Students\Grading Students\obj\Debug\Grading Students.pdb
